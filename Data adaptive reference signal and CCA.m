@@ -1,6 +1,6 @@
 %% main
 %% loading data
-% ‘Electrode index’, ‘Time points’, ‘Target index’, and ‘Block index’
+% â€˜Electrode indexâ€™, â€˜Time pointsâ€™, â€˜Target indexâ€™, and â€˜Block indexâ€™
 load 'C:\Users\DearUser\Downloads\S1.mat\S1.mat';
 datapre0=data;
 load 'C:\Users\DearUser\Downloads\S2.mat\S2.mat';
